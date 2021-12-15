@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-    <img text-align="center" width="70%" src="https://github.com/xlebpushek/xlebpushek/blob/main/assets/preview/coding.gif">
+    <img width="70%" src="https://github.com/xlebpushek/xlebpushek/blob/main/assets/preview/coding.gif">
 </p>
 
 ```javascript
@@ -47,7 +47,7 @@ const xlebpushek = {
 ```
 
 <p align="center">
-    <img src="https://github.com/xlebpushek/xlebpushek/blob/main/assets/preview/analytics.gif"/>
+    <img width="80%" src="https://github.com/xlebpushek/xlebpushek/blob/main/assets/preview/analytics.gif"/>
 </p>
 <p align="center">
     <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=xlebpushek&hide_title=true&show_icons=true&include_all_commits=true&card_width=45%&theme=vue"/>
