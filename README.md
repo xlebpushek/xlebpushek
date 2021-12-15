@@ -46,10 +46,9 @@ const xlebpushek = {
 }
 ```
 
-<p align="center">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=xlebpushek&hide_title=true&show_icons=true&include_all_commits=true&theme=vue"/>
-</p>
+<img align="right" width="35%" src="https://i.pinimg.com/originals/c6/6b/dd/c66bdde5b081de5f848e73c8ccc515e8.gif"/>
 
-<p align="center">
+<p>
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=xlebpushek&hide_title=true&show_icons=true&include_all_commits=true&card_width=45%&theme=vue"/>
     <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=xlebpushek&hide_title=true&layout=compact&card_width=445%&langs_count=7&theme=vue"/>
 </p>
