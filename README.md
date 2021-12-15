@@ -2,9 +2,6 @@
     <a align="center" href="https://www.buymeacoffee.com/xlebpushek"><img src="https://readme-typing-svg.herokuapp.com?color=%23CD1A1A&size=25&width=230&height=40&lines=Buy+me+%E2%98%95+please"/></a>
 </p>
 
-
-
-
 ```javascript
 const xlebpushek = {
     Who: {
@@ -26,13 +23,13 @@ const xlebpushek = {
                 "Flask",
                 "MySQL",
                 "Webpack"
-            ],
+            ]
         },
         "Application developer": [
             "C++",
             "Bash",
             "Python",
-            "Golang",
+            "Golang"
         ],
         "Computer security specialist": [
             "Nmap",
@@ -44,11 +41,6 @@ const xlebpushek = {
     }
 }
 ```
-
-
-
-
-
 
 <p align="center">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=xlebpushek&hide_title=true&show_icons=true&include_all_commits=true&theme=vue"/>
