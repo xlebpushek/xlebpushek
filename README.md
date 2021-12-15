@@ -46,7 +46,7 @@ const xlebpushek = {
 }
 ```
 
-<img align="right" width="100%" src="https://i.pinimg.com/originals/c6/6b/dd/c66bdde5b081de5f848e73c8ccc515e8.gif"/>
+<img align="right" width="40%" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif"/>
 
 <p>
     <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=xlebpushek&hide_title=true&show_icons=true&include_all_commits=true&card_width=45%&theme=vue"/>
