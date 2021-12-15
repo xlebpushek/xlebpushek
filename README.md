@@ -1,5 +1,5 @@
 <p align="center">
-  <a align="center" href="https://www.buymeacoffee.com/xlebpushek"><img src="https://readme-typing-svg.herokuapp.com?color=%23C30000&width=190&height=30&lines=Buy+me+%E2%98%95+please"/></a>
+  <a align="center" href="https://www.buymeacoffee.com/xlebpushek"><img src="https://readme-typing-svg.herokuapp.com?color=%23CD1A1A&size=25&width=230&height=40&lines=Buy+me+%E2%98%95+please"/></a>
 </p>
 
 <p align="center">
