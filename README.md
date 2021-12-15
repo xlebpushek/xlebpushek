@@ -46,9 +46,8 @@ const xlebpushek = {
 }
 ```
 
-<img align="right" width="40%" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif"/>
-
-<p>
-    <img width="50%" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=xlebpushek&hide_title=true&show_icons=true&include_all_commits=true&card_width=45%&theme=vue"/>
-    <img width="50%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=xlebpushek&hide_title=true&layout=compact&card_width=445%&langs_count=7&theme=vue"/>
+<p align="center">
+    <img src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif"/>
+    <img width="70%" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=xlebpushek&hide_title=true&show_icons=true&include_all_commits=true&card_width=45%&theme=vue"/>
+    <img width="70%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=xlebpushek&hide_title=true&layout=compact&card_width=445%&langs_count=7&theme=vue"/>
 </p>
