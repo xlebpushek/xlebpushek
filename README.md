@@ -1,57 +1,7 @@
-<p align="center">
-    <a href="https://www.buymeacoffee.com/xlebpushek"><img src="https://readme-typing-svg.herokuapp.com?color=%23CD1A1A&size=25&width=230&height=40&lines=Buy+me+%E2%98%95+please"/></a>
-</p>
+👋 Hello. I'm 🍞 Xlebpushek. <br>
 
-<p align="center">
-    <img width="70%" src="https://github.com/xlebpushek/xlebpushek/blob/main/assets/preview/coding.gif">
-</p>
+I am a developer in various areas of IT, be it web or application and script development.
+In fact, I am an ordinary student in the 🏙 city of Saratov, studying for a close profession to a programmer.
+I draw all my knowledge from the 🌐 Internet, because in 🏫 college they are not enough and, in particular, they are not what is needed. <br>
 
-```javascript
-const xlebpushek = {
-    Who: {
-        "Designer": [
-            "Adobe photoshop",
-            "Adobe illustrator"
-        ],
-        "Full stack developer": {
-            "Frontend": [
-                "CSS",
-                "SCSS",
-                "SASS",
-                "HTML",
-                "JavaScript"
-            ],
-            "Backend": [
-                "Gulp",
-                "Grunt",
-                "Flask",
-                "MySQL",
-                "Webpack"
-            ]
-        },
-        "Application developer": [
-            "C++",
-            "Bash",
-            "Python",
-            "Golang"
-        ],
-        "Computer security specialist": [
-            "Nmap",
-            "Hydra",
-            "WPScan",
-            "SQLMap",
-            "Metasploit"
-        ]
-    }
-}
-```
-
-<p align="center">
-    <img width="80%" src="https://github.com/xlebpushek/xlebpushek/blob/main/assets/preview/analytics.gif"/>
-</p>
-<p align="center">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=xlebpushek&hide_title=true&show_icons=true&include_all_commits=true&card_width=45%&theme=vue"/>
-</p>
-<p align="center">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=xlebpushek&hide_title=true&layout=compact&card_width=445%&langs_count=7&theme=vue"/>
-</p>
+I love ̶p̶r̶o̶c̶r̶a̶s̶t̶i̶n̶a̶t̶e̶  writing code and drinking ☕ tea ..
